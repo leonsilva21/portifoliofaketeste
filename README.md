@@ -7,6 +7,4 @@ Este projeto inclui arquivos simples com exemplos de código para estilização 
 Conteúdo:
 Estruturas básicas de HTML (tags principais, formulários, tabelas, etc.).
 
-Estilização com CSS (cores, fontes, layout, flexbox e grid).
-
 Exercícios práticos para consolidar o aprendizado.
